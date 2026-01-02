@@ -3,7 +3,7 @@ hello fellows i have made another (probably useless) thing, this time in python 
 this lets you use commands such as `add(item)` and other random stuff to control an inventory
 
 ## usage rules
-if you want to use this, just credit me (HyperSource, or just link this repo) in your README or in a comment at the top of your python files using it. (or just a credits.md page would also work)
+if you want to use this, just credit me (heysailboat, or just link this repo) in your README or in a comment at the top of your python files using it. (or just a credits.md page would also work)
 
 ## usage guide
 in python, simply copy-paste the stuff into a new file named `inventory.py` or whatever you want, then at the start of your file write:
@@ -18,8 +18,6 @@ from inventory.py import (
 ```
 and then you should be good. 
 then from there, just use `add(item)`, `remove(item)`, and `list()` wherever you need in your code. these do exactly what they sound like.
-currently these are the only commands but i will be adding more :P
+currently these are the only commands but i will be adding more eventually
 
-
-
-###### wow this is a long readme
+plans to turn this into a library for python rather than a file import will be addressed eventually
